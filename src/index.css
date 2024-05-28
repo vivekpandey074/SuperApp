@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.no-spinner::-webkit-outer-spin-button,
+.no-spinner::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+.bgAction{
+  background-color: #FF5209;
+}
+
+.bgDrama{
+  background-color: #D7A4FF
+}
+.bgRomance{
+  background-color:#11B800
+}
+.bgThriller{
+  background-color:#84C2FF
+}
+
+.bgWestern{
+  background-color:#902500
+}
+
+.bgHorror{
+  background-color:#7358FF
+}
+
+.bgFantasy{
+
+  background-color:#FF4ADE
+}
+
+.bgMusic{
+  background-color:#E61E32
+}
+
+.bgFiction{
+  background-color:#6CD061
+}
